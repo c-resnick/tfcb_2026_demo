@@ -33,7 +33,7 @@ Make a 1:64 dilution of the flu-seqneut-2026 virus library:
 
 ## Result
 
-![[Short description of the image]](img/[your_image_file].png)
+(img/2026-09-30_clyde.png)
 
-*Figure 1: [What the image shows]. Image produced by [your name / source credit].*
+*Figure 1: This image is of a 1% agarose e-gel imaged on a transilluminator displaying 10 samples and a smeared ladder. Image produced by Abby Clyde.*
 
