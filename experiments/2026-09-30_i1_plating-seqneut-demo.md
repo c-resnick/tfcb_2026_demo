@@ -33,7 +33,7 @@ Make a 1:64 dilution of the flu-seqneut-2026 virus library:
 
 ## Result
 
-![Figure 1: This image is of a 1% agarose e-gel imaged on a transilluminator displaying 10 samples and a smeared ladder. Image produced by Abby Clyde](experiments/img/2026-09-29_clyde.png)
+![Figure 1: This image is of a 1% agarose e-gel imaged on a transilluminator displaying 10 samples and a smeared ladder. Image produced by Abby Clyde](img/2026-09-29_clyde.png)
 
 *Figure 1: This image is of a 1% agarose e-gel imaged on a transilluminator displaying 10 samples and a smeared ladder. Image produced by Abby Clyde.*
 
