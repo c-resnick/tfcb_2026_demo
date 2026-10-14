@@ -31,4 +31,4 @@ Made by Carmen Resnick ([@c-resnick](https://github.com/c-resnick)).
 
 
 ## Collaborators
-I assigned both Vimathi and Katie onto Issue #2 to put it on their radar and invite them to be able to engage with the content. By assigning them, they can not track issues that they have been assigned to through their own account and it allows me to see that they are on the page as well.
+I assigned Vimathi @vimathi-bit, Katie @taylorkatie923 , and Val @vbrow29 onto Issue #2 to put it on their radar and invite them to be able to engage with the content. By assigning them, they can not track issues that they have been assigned to through their own account and it allows me to see that they are on the page as well.
