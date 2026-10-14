@@ -1,5 +1,19 @@
 # tfcb_2026_demo
 
+## About
+
+This repository is a demo project for TFCB 2026. It holds a lab experiment log for a sequence neutralization demo assay and a qPCR data-tidying exercise. This demo is used to practice tracking work with GitHub using issues and commits.
+
+Made by Carmen Resnick ([@c-resnick](https://github.com/c-resnick)).
+
+## Folder layout
+
+- `experiments/`: dated experiment logs, such as the plating/seqneut demo, plus an `img/` subfolder for images like gel photos.
+- `analysis/`: data analysis work, organized by assay and then by dated exercise.
+  - `analysis/qpcr/2026-10-12_i2_tidy_data_exercise/tables/`: the tidied qPCR data (`tidy_data.csv`).
+- `README.md`: this file.
+
+  
 ## Homework 1
 [Issue 1](https://github.com/c-resnick/tfcb_2026_demo/issues/1#issue-5824480197)
 
